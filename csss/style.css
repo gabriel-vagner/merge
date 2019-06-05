@@ -3,6 +3,7 @@ h1 {
     border-style: solid;
     border-color: black;
     border-width: 54px; 
-    margin-right: 75%;
+    padding: 12%;
+    text-align: center;
     
 }
